@@ -1,0 +1,7 @@
+"use strict";
+/// <reference path="../../typings.d.ts" />
+var platform_browser_dynamic_1 = require('@angular/platform-browser-dynamic');
+var app_component_1 = require("./app.component");
+platform_browser_dynamic_1.bootstrap(app_component_1.AppComponent);
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImJvb3QudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUFBLDJDQUEyQztBQUMzQyx5Q0FBMEIsbUNBQW1DLENBQUMsQ0FBQTtBQUM5RCw4QkFBNkIsaUJBQWlCLENBQUMsQ0FBQTtBQUUvQyxvQ0FBUyxDQUFDLDRCQUFZLENBQUMsQ0FBQyIsImZpbGUiOiJib290LmpzIiwic291cmNlc0NvbnRlbnQiOlsiLy8vIDxyZWZlcmVuY2UgcGF0aD1cIi4uLy4uL3R5cGluZ3MuZC50c1wiIC8+XHJcbmltcG9ydCB7IGJvb3RzdHJhcCB9IGZyb20gJ0Bhbmd1bGFyL3BsYXRmb3JtLWJyb3dzZXItZHluYW1pYyc7XHJcbmltcG9ydCB7IEFwcENvbXBvbmVudCB9IGZyb20gXCIuL2FwcC5jb21wb25lbnRcIjtcclxuXHJcbmJvb3RzdHJhcChBcHBDb21wb25lbnQpOyJdLCJzb3VyY2VSb290IjoiL3NvdXJjZS8ifQ==
